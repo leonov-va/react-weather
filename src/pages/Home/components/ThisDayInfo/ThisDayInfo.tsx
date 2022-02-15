@@ -10,7 +10,7 @@ export interface Item {
   value: string;
 }
 
-const items = [
+export const items = [
   {
     icon_id: "temp",
     name: "Температура",
