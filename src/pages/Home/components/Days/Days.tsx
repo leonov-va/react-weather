@@ -78,7 +78,7 @@ export const Days = (props: Props) => {
       <Tabs />
       <div className={s.days}>
         {days.map((day: Day) => (
-          <Card day={day} />
+          <Card key={day.day} day={day} />
         ))}
       </div>
     </>
