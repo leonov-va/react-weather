@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-weather-example/static/css/main.9d412ff9.css",
-    "main.js": "/react-weather-example/static/js/main.973f56b8.js",
-    "static/media/cloud.png": "/react-weather-example/static/media/cloud.93ea380a4d88cb8d7cf1.png",
-    "index.html": "/react-weather-example/index.html",
-    "main.9d412ff9.css.map": "/react-weather-example/static/css/main.9d412ff9.css.map",
-    "main.973f56b8.js.map": "/react-weather-example/static/js/main.973f56b8.js.map"
+    "main.css": "/leonov-va/react-weather-example/static/css/main.9d412ff9.css",
+    "main.js": "/leonov-va/react-weather-example/static/js/main.e8ae1f87.js",
+    "static/media/cloud.png": "/leonov-va/react-weather-example/static/media/cloud.93ea380a4d88cb8d7cf1.png",
+    "index.html": "/leonov-va/react-weather-example/index.html",
+    "main.9d412ff9.css.map": "/leonov-va/react-weather-example/static/css/main.9d412ff9.css.map",
+    "main.e8ae1f87.js.map": "/leonov-va/react-weather-example/static/js/main.e8ae1f87.js.map"
   },
   "entrypoints": [
     "static/css/main.9d412ff9.css",
-    "static/js/main.973f56b8.js"
+    "static/js/main.e8ae1f87.js"
   ]
 }
